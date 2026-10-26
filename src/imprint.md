@@ -1,4 +1,4 @@
-## Imprint
+# Imprint
 
 ### OMICRON electronics GmbH
 
